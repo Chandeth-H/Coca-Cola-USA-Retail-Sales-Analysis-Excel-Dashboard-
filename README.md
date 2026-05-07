@@ -31,4 +31,7 @@ The project demonstrates Excel analytics skills including data cleaning, pivot t
 - Total sales increased significantly from 2022 to 2023
 - Coca-Cola brand generated the highest sales growth
 - BevCo and FizzyCo recorded the highest sales growth in 2023, while Target showed rapid growth from a very small 2022 sales base.
-- Profit margin improved during 2023, peaking in Q3
+- Sales grew significantly in 2023 while operating profit margins remained relatively stable, indicating consistent cost management and profitability performance.
+
+<img width="928" height="580" alt="image" src="https://github.com/user-attachments/assets/e0c7957c-43d6-466c-8ca4-de44276a2920" />
+
